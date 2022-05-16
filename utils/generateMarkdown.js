@@ -13,6 +13,29 @@ function renderLicenseSection(license) {}
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+
+  ## Table of Contents
+  * [Description](#description)
+  ${renderLicenseLink(data.license)}
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Questions](#questions)
+  ## Description
+  ${data.description}
+  ![screenshot](${data.screenshot})
+  ## License
+  ${data.license}
+  ${renderLicenseSection(data.license)}
+  ## Installation
+  ${data.installation}
+  ## Usage 
+  ${data.usage}
+  ## Contributing
+  ${data.contributing}
+  ## Questions
+  Github: [${data.github}](https://github.com/${data.github})
+  Email: ${data.email}
 `;
 }
 
