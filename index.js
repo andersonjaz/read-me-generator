@@ -267,7 +267,7 @@ function init() {
       return generateMarkdown(data);
     })
     .then((markdown) => {
-      writeToFile("./dist/README.md", markdown);
+      writeToFile("./NewReadMe/README.md", markdown);
     })
     .catch((err) => {
       console.log(err);

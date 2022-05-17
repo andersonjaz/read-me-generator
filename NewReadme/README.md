@@ -1,6 +1,5 @@
-# A prject title
-[![GNU General Public License v3.0](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-blue.svg)](https://choosealicense.com/licenses/gpl-3.0)
-
+# Read Me Generator
+[![Artistic license 2.0](https://img.shields.io/badge/license-Artistic%20license%202.0-blue.svg)](https://choosealicense.com/licenses/artistic-2.0)
 ## Table of Contents
 [Description](#description)
 [Installation](#installation)
@@ -8,31 +7,19 @@
 [Contributing](#contributing)
 [Testing](#testing)
 [License](#license)
-
 ## Description
-
-A project description
-
+creates professional readme.md
 ## Installation
-
-iNstall instrcutions
-
+must have node js installed
 ## Usage
-
-Some usage guidelines
-
+run the index page and answer questions
 ## Contributing
-
-Some contribution guidelines
-
+not applicable
 ## Testing
-
-Tests and how to run them
-
+n/a
 ## License
-This software is covered by GNU General Public License v3.0.
-
+This software is covered by Artistic license 2.0.
 ## Questions
-Created by [jdpasternak](https://github.com/jdpasternak).
-Contact Email: jdp.pasternak@gmail.com
-Contact Instructions: Email me and i'll reply within 3-5 business days.
+Created by [AndersonJaz](https://github.com/AndersonJaz).
+Contact Email: jazminandersonxo@gmail.com
+Contact Instructions: send email to above email
