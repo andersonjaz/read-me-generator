@@ -21,11 +21,6 @@
 
 An application that will allow users to create Read Me markdowns for their projects directly from the command line. Users will have to answer a series of questions and a read me file will be generated. 
 
-## License/ Installations
-
-```py
-```
-
 ## Preview
 
 
